@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E46DB3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&pause=1000&color=974C7A&center=true&vCenter=true&multiline=true&width=435&lines=Reposit%C3%B3rio+de+desafios+CPX+-+TECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&pause=1000&color=974C7A&center=true&vCenter=true&multiline=true&width=1000&lines=Reposit%C3%B3rio+de+desafios+CPX+-+TECH)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cpx-tech&bg_color=0d1117&color=e46db3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
